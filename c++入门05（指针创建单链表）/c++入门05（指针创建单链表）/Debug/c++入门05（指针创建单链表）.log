@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  c++入门05（指针创建单链表）.cpp
+d:\material&information&program\visual c++entry\c++入门05（指针创建单链表）\c++入门05（指针创建单链表）\c++入门05（指针创建单链表）.cpp(35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\material&information&program\visual c++entry\c++入门05（指针创建单链表）\c++入门05（指针创建单链表）\c++入门05（指针创建单链表）.cpp(65): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  c++入门05（指针创建单链表）.vcxproj -> D:\Material&Information&Program\visual c++Entry\c++入门05（指针创建单链表）\Debug\c++入门05（指针创建单链表）.exe
